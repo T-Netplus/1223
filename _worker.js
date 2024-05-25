@@ -875,4 +875,12 @@ const cn_hostnames = [
 	'enama.ir',          // Cnblogs - A Chinese technology blog community
 	'serverpars.com',              // CCTV - China Central Television official website
 	'dorna-music.ir',            // Secoo - A Chinese luxury e-commerce platform
+        'jahansanatnews.ir',                // Weibo - A popular social media platform                // Weibo - A popular social media platform
+	'melonmusic.ir',               // gama.ir - A Chinese classified advertising website
+	'ramzinex.com',          // Cnblogs - A Chinese technology blog community
+	'shenasname.ir',              // CCTV - China Central Television official website
+	'limoo.host',            // Secoo - A Chinese luxury e-commerce platform
+	'musicshah.ir',          // Cnblogs - A Chinese technology blog community
+	'adexo.ir',              // CCTV - China Central Television official website
+	'avval.ir',            // Secoo - A Chinese luxury e-commerce platform
 ];
