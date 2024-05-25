@@ -879,7 +879,7 @@ const cn_hostnames = [
 	'melonmusic.ir',               // gama.ir - A Chinese classified advertising website
 	'ramzinex.com',          // Cnblogs - A Chinese technology blog community
 	'shenasname.ir',              // CCTV - China Central Television official website
-	'limoo.host',            // Secoo - A Chinese luxury e-commerce platform
+	'kelly-similiarbody.shop',         // Secoo - A Chinese luxury e-commerce platform
 	'musicshah.ir',          // Cnblogs - A Chinese technology blog community
 	'adexo.ir',              // CCTV - China Central Television official website
 	'avval.ir',            // Secoo - A Chinese luxury e-commerce platform
