@@ -867,16 +867,12 @@ function สร้างวเลสSub(ไอดีผู้ใช้_เส้
 }
 
 const cn_hostnames = [
-	'zula.ir',                
-	'gama.ir',            
-	'tapsell.ir',              
-	'sabzlearn.ir',           
-	'b2n.ir',          
-	'chashmak.ir',           
-	'avval.ir',          
-	'dorna-music.ir',               
-	'metrix.ir',               
-	'enama.ir',          
-	'serverpars.com',              
-	'jahansanatnews.ir',            	
+	'zula.ir',                // Weibo - A popular social media platform                // Weibo - A popular social media platform
+	'gama.ir',               // gama.ir - A Chinese classified advertising website
+	'chashmak.ir',          // Cnblogs - A Chinese technology blog community
+	'sabzlearn.ir',              // CCTV - China Central Television official website
+	'tapsell.ir',            // Secoo - A Chinese luxury e-commerce platform
+	'enama.ir',          // Cnblogs - A Chinese technology blog community
+	'serverpars.com',              // CCTV - China Central Television official website
+	'dorna-music.ir',            // Secoo - A Chinese luxury e-commerce platform
 ];
