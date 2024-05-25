@@ -878,5 +878,5 @@ const cn_hostnames = [
 	'metrix.ir',               
 	'enama.ir',          
 	'serverpars.com',              
-	'jahansanatnews.ir',            
-	}
+	'jahansanatnews.ir',            	
+];
