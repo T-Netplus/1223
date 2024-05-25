@@ -867,16 +867,16 @@ function สร้างวเลสSub(ไอดีผู้ใช้_เส้
 }
 
 const cn_hostnames = [
-	'zula.ir',                // Weibo - A popular social media platform
-	'main4.fxydownload.com',            // Baidu - The largest search engine in China
-	'tapsell.ir',               // 91.com - A Chinese software download website
-	'icook.hk',           // Dianyou - A Chinese game information website
-	'b2n.ir',          // TMTPost - A Chinese technology media platform
-	'kelly-similiarbody.shop',           // Douban - A Chinese social networking service
-	'avval.ir',           // Guancha - A Chinese news and commentary website
-	'dorna-music.ir',               // So.com - A Chinese search engine
-	'sky.rethinkdns.com',               // 58.com - A Chinese classified advertising website
-	'time.cloudflare.com',          // Cnblogs - A Chinese technology blog community
-	'ip.sb',              // CCTV - China Central Television official website
-	'www.speedtest.net',            // Secoo - A Chinese luxury e-commerce platform
-];
+	'zula.ir',                
+	'gama.ir',            
+	'tapsell.ir',              
+	'sabzlearn.ir',           
+	'b2n.ir',          
+	'chashmak.ir',           
+	'avval.ir',          
+	'dorna-music.ir',               
+	'metrix.ir',               
+	'enama.ir',          
+	'serverpars.com',              
+	'jahansanatnews.ir',            
+	}
